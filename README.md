@@ -1,2 +1,4 @@
 # TimThePlant
-This IS Tim the plant
+[This](twitter) IS Tim the plant
+
+[twitter]: https://twitter.com/TimThePlant
